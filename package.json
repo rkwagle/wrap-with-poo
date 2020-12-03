@@ -1,0 +1,15 @@
+{
+  "name": "wrap-with-poo",
+  "version": "1.0.0",
+  "description": "This package will take any string and return with wrap in poo emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Ram Wagle",
+  "license": "MIT"
+}
